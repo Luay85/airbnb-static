@@ -1,0 +1,24 @@
+luay:
+  owner_name: Luay Adam
+  picture: images/card-brussels.jpeg
+  owner_picture: images/luay.jpg
+  name: Luay's home
+  summary: Charming room in Brussels
+  city: Brussels, Belgium
+  wifi: true
+martin:
+  owner_name: Martin Bragard
+  picture: images/card-paris.jpg
+  owner_picture: images/martin.jpg
+  name: Martin's home
+  summary: Nice flat in Paris
+  city: Paris, France
+  wifi: false
+anne:
+  owner_name: Anne Collet
+  picture: images/card-brussels.jpeg
+  owner_picture: images/anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  city: Brussels, Belgium
+  wifi: false
